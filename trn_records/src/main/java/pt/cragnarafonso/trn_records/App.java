@@ -1,4 +1,4 @@
-package cragnarafonso.pt.trn_records;
+package pt.cragnarafonso.trn_records;
 
 /**
  * Hello world!
